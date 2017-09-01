@@ -1,0 +1,6 @@
+Credentials cache: API:28379
+        Principal: alanter@42.US.ORG
+
+  Issued                Expires               Principal
+Aug  8 12:56:31 2017  Aug  8 22:56:31 2017  krbtgt/42.US.ORG@42.US.ORG
+Aug  8 12:56:32 2017  Aug  8 22:56:31 2017  ldap/ldap-proxy.42.us.org@42.US.ORG
